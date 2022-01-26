@@ -1,0 +1,6 @@
+[submodule "ba"]
+	path = ba
+	url = https://github.com/tobiasrodestock/ba
+[submodule "ba-frontend"]
+	path = ba-frontend
+	url = https://github.com/tobiasrodestock/ba-frontend
